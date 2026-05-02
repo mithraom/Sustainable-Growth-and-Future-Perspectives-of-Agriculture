@@ -6,7 +6,7 @@ A research thesis exploring the intersection of **sustainable agricultural pract
  
 ---
  
-## 📌 About This Research
+##  About This Research
  
 India's agricultural economy, built on staple crops like rice, wheat, millets, pulses, and oilseeds, faces mounting pressures from climate change, population growth, water scarcity, and evolving consumer demands. This research investigates how technological innovation and sustainable practices can address these challenges while ensuring long-term food security.
  
@@ -14,7 +14,7 @@ The study bridges the gap between conventional farming methods and modern data-d
  
 ---
  
-## 🎯 Research Objectives
+##  Research Objectives
  
 - Investigate the concept of **sustainable growth in agriculture** — its current status, challenges, and future trajectory
 - Analyze key factors contributing to **sustainable agricultural practices** and their potential for long-term food security
@@ -23,13 +23,13 @@ The study bridges the gap between conventional farming methods and modern data-d
 - Forecast **future trends** and propose innovative solutions for the agricultural sector
 ---
  
-## ❓ Research Question
+##  Research Question
  
 > *How can technological advancements and innovative agricultural practices be integrated to achieve sustainable agricultural growth?*
  
 ---
  
-## 🔬 Methodology
+##  Methodology
  
 | Method | Description |
 |---|---|
@@ -41,7 +41,7 @@ The study bridges the gap between conventional farming methods and modern data-d
  
 ---
  
-## 🌿 Key Topics Covered
+##  Key Topics Covered
  
 ### 1. Precision Agriculture
 - GPS Technology for field mapping and equipment guidance
@@ -67,7 +67,7 @@ Emerging government investments in AI and Machine Learning for smarter agricultu
  
 ---
  
-## 📊 Key Findings
+##  Key Findings
  
 - Precision agriculture can deliver a **4% increase in crop production**
 - **7% reduction** in fertilizer use
@@ -77,7 +77,7 @@ Emerging government investments in AI and Machine Learning for smarter agricultu
 - Fertilizer and pesticide usage can be reduced by **up to 20%** without compromising crop quality
 ---
  
-## ⚠️ Limitations
+##  Limitations
  
 - High initial investment costs for GPS, sensors, drones, and specialized software
 - Steep learning curve for farmers unfamiliar with digital tools
@@ -88,7 +88,7 @@ Emerging government investments in AI and Machine Learning for smarter agricultu
 - Risk of widening inequality between large and small-scale farms
 ---
  
-## 🔮 Future Perspectives
+##  Future Perspectives
  
 - Wider integration of **AI and Machine Learning** for predictive crop management
 - **IoT sensor networks** for real-time soil and weather monitoring
@@ -98,18 +98,19 @@ Emerging government investments in AI and Machine Learning for smarter agricultu
 - Sustainable practices balancing **environmental conservation**, **economic viability**, and **social equity**
 ---
  
-## 📁 Repository Contents
+##  Repository Contents
  
 ```
 sustainable-agriculture-thesis/
 │
 ├── Sustainable_Agriculture_Future_Perspectives_Thesis.pdf   # Full research paper
-└── README.md                                                 # Project overview
+├── Sustainable_Agriculture_Future_Perspectives_Thesis.ods   # Dataset
+└── README.md                                                # Project overview
 ```
  
 ---
  
-## 📚 References
+##  References
  
 - Mokariya, L.K. & Malam, K.V. (2020). *Precision Agriculture – A New Smart Way of Farming.* Agricultural & Environment E-Newsletter, 1(2).
 - Dama, V.R. et al. (2020). *Scope and Adoption of Precision Farming in India.* Agricultural & Environment E-Newsletter, 1(3).
