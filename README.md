@@ -103,8 +103,8 @@ Emerging government investments in AI and Machine Learning for smarter agricultu
 ```
 sustainable-agriculture-thesis/
 │
-├── Sustainable_Agriculture_Future_Perspectives_Thesis.pdf   # Full research paper
-├── Sustainable_Agriculture_Future_Perspectives_Thesis.ods   # Dataset
+├── Sustainable Agriculture & Future Perspectives Thesis.pdf   # Full research paper
+├── Sustainable Agriculture & Future_Perspectives.ods   # Dataset
 └── README.md                                                # Project overview
 ```
  
